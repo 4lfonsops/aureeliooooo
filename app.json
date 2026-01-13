@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Tienda Reparación Móvil",
+    "slug": "tienda-reparacion-movil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tiendareparacion.movil"
+    },
+    "android": {
+      "package": "com.tiendareparacion.movil"
+    }
+  }
+}
